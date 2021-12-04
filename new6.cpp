@@ -16,6 +16,7 @@ void free(int**& matr, int n)
 int main()
 {
 	int n;
+	cout << "Jopka";
 	setlocale(0, "RUS");
 	cout << "¬ведите размер квадратной матрицы:" << endl;
 	correct_input_matrix_size(int& num);
