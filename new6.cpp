@@ -17,7 +17,6 @@ int main()
 {
 	int b;
 	int n;
-	cout << "Jopka";
 	setlocale(0, "RUS");
 	cout << "Ââåäèòå ðàçìåð êâàäðàòíîé ìàòðèöû:" << endl;
 	correct_input_matrix_size(int& num);
