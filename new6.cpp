@@ -15,7 +15,7 @@ void free(int**& matr, int n)
 
 int main()
 {
-	int b;
+	int kaka;
 	int n;
 	cout << "Jopka";
 	setlocale(0, "RUS");
