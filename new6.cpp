@@ -15,10 +15,11 @@ void free(int**& matr, int n)
 
 int main()
 {
+	int b;
 	int n;
 	cout << "Jopka";
 	setlocale(0, "RUS");
-	cout << "Ââåäèòå ğàçìåğ êâàäğàòíîé ìàòğèöû:" << endl;
+	cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ Ã°Ã Ã§Ã¬Ã¥Ã° ÃªÃ¢Ã Ã¤Ã°Ã Ã²Ã­Ã®Ã© Ã¬Ã Ã²Ã°Ã¨Ã¶Ã»:" << endl;
 	correct_input_matrix_size(int& num);
 
 	int** matrix = input_matrix(n);
